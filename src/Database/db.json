@@ -1,0 +1,46 @@
+{
+  "users": [
+    {
+      "name": "Sonam Kumari",
+      "username": "that_textrovert",
+      "email": "sonamkumari@gmail.com",
+      "phone": "7896547896",
+      "id": 4
+    },
+    {
+      "name": "Aryan Patel",
+      "username": "notreallyaryan",
+      "email": "aryan@gmail.com",
+      "phone": "0987654321",
+      "id": 10
+    },
+    {
+      "name": "Eykagra Gangwar",
+      "username": "eykagra",
+      "email": "eykagra@gmail.com",
+      "phone": "4569874563",
+      "id": 6
+    },
+    {
+      "name": "Aadi Jain",
+      "username": "aadijain",
+      "email": "aadi.jain@gmail.com",
+      "phone": "8596589658",
+      "id": 7
+    },
+    {
+      "name": "Ayush Jaiswal",
+      "username": "ayushjaiswal2212",
+      "email": "ayush.jaiswal@gmail.com",
+      "phone": "9658965236",
+      "id": 8
+    },
+    {
+      "name": "Rajan Sharma",
+      "username": "rajansharma",
+      "email": "rajan.sharma@gmail.com",
+      "phone": "1234567890",
+      "id": 9
+    }
+  ]
+}
