@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Crudify/static/css/main.e6c13ad2.css",
+    "main.js": "/Crudify/static/js/main.fa3f6477.js",
+    "static/js/453.76467689.chunk.js": "/Crudify/static/js/453.76467689.chunk.js",
+    "static/media/NotFound.png": "/Crudify/static/media/NotFound.235c7037af34777f4fd5.png",
+    "static/media/crud.png": "/Crudify/static/media/crud.6cda136c4a802c511f6e.png",
+    "index.html": "/Crudify/index.html",
+    "main.e6c13ad2.css.map": "/Crudify/static/css/main.e6c13ad2.css.map",
+    "main.fa3f6477.js.map": "/Crudify/static/js/main.fa3f6477.js.map",
+    "453.76467689.chunk.js.map": "/Crudify/static/js/453.76467689.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.fa3f6477.js"
+  ]
+}
